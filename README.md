@@ -1,1 +1,1 @@
-# John Hopkins data science
+# Data science in R
